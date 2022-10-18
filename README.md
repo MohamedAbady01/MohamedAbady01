@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Power BI ](?style=social&logo=appveyor)
+![Power BI ](https://img.shields.io/badge/-PowerBI-222222?style=flat&logo=github&logoColor=181717)
 
 ##### Some of my favorite projects
 
