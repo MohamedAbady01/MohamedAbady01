@@ -14,7 +14,7 @@
 
 ##### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C Sharp](https://img.shields.io/badge/-C Sharp-000000?style=flat&logo=c)
+![C Sharp](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
