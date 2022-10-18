@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
-![Asp.net]<img src="https://th.bing.com/th/id/R.b8cd3ac6ed9e18c8a7b33010913e8b24?rik=kiAyr9PKh4B7yA&riu=http%3a%2f%2fwww.iconsoftwaresolutions.com%2fwp-content%2fuploads%2f2015%2f05%2fnet-1024x262.jpg&ehk=r2XdEf8jWn%2fXEGqB6dJX3y0DUwcai5LEoZa3CbiK3Xw%3d&risl=&pid=ImgRaw&r=0 style="width:100px;height:100px;" 
+![Asp.net]<img src="https://th.bing.com/th/id/R.b8cd3ac6ed9e18c8a7b33010913e8b24?rik=kiAyr9PKh4B7yA&riu=http%3a%2f%2fwww.iconsoftwaresolutions.com%2fwp-content%2fuploads%2f2015%2f05%2fnet-1024x262.jpg&ehk=r2XdEf8jWn%2fXEGqB6dJX3y0DUwcai5LEoZa3CbiK3Xw%3d&risl=&pid=ImgRaw&r=0" style="width:100px;height:100px;> 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
