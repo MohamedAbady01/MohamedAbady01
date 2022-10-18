@@ -1,5 +1,8 @@
 [![Header](https://github.com/MohamedAbady01/MohamedAbady01/raw/master/profile.gif)](https://www.adamalston.com/)
 
+
+ <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
 ##### Hi, I'm Mohamed Abady:
 
 - 🎓I'm a Computer Science student at Helwan University 
