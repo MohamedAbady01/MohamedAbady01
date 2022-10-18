@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Power BI ](https://img.shields.io/static/v1?label=<Power Bi>&color=<COLOR>)
+![Power BI ](https://img.shields.io/static/v1?label=<Power Bi>&message=<Power Bi>&color=<COLOR>)
 
 ##### Some of my favorite projects
 
