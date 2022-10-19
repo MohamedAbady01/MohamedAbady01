@@ -6,7 +6,7 @@
 ##### Hi, I'm Mohamed Abady:
 
 - 🎓I'm a Computer Science student at Helwan University 
-- :test_tube: Intersting in Machiene Learning , Deep Learning  And Data Science 
+- :test_tube: Intersted in Machiene Learning , Deep Learning  And Data Science 
 - :speech_balloon: Ask me about accessibility, Machiene Learning ,Deep Learning , Data Science, full-stack, web
 - :mailbox: You can reach me with the links below
 
