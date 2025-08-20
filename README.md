@@ -12,7 +12,7 @@
 - 🔧 Experienced in **end-to-end automation**, from **data pipelines** to **AI model deployment**.  
 - 📊 Strong background in **Data Analysis, Visualization, and Machine Learning**.  
 - 🌐 Hands-on expertise in **System Administration, Linux, Networking, and DevOps practices**.  
-- 🧠 Built **custom CNN pipelines (no pretrained models)** for real-world projects (e.g., fake ID detection).  
+- 🧠 Built **custom CNN pipelines (no pretrained models)** for real-world projects.  
 
 ---
 
@@ -27,34 +27,41 @@
 
 ---
 
-## 🏆 Professional Experience
-**System Engineer – Telecom Egypt** (Feb 2025 – Present)  
-- Manage & maintain Linux servers, automating tasks with Python.  
-- Optimize Oracle database performance, ensuring high availability.  
-- Maintain and secure network infrastructure.  
+## 📂 Featured Projects
 
-**Python & AI Developer – Instant** (Feb 2022 – Nov 2023)  
-- Built Instagram scraper & CNN-based image classifier (↑20% accuracy).  
-- Developed emotion & age/gender detection models (↑25% performance).  
-- Analyzed Twitter data with NLP for marketing insights.  
-
-**Freelance Projects – Upwork (Remote)**  
-- Automated **invoice generation system** (Trello + n8n + Google Sheets + Chatbot).  
-- Developed **custom CNN for fake ID detection** (no pretrained models, YOLOv4 + feature engineering).  
-- Built **automation bot** for BuildZoom (contractor account creation + Google Drive integration).  
-- Automated high-volume scraping (e.g., visa bookings, job listings).  
-- Delivered **10+ ML projects** (classification, regression, clustering, NLP).  
-
----
-
-## 📂 Featured Project
-### 🪪 **Card Classifier – Real vs Fake ID Detection**
+### 🪪 Card Classifier – Real vs Fake ID Detection
 - Built **from scratch without pretrained models** (client requirement).  
 - Combines **face detection (YOLO DNN)** with **LBP & Edge feature extraction**.  
 - CNN trained to classify IDs → **Real vs Fake**.  
 - Achieved **high accuracy**, delivered with **5-star client feedback**.  
+👉 [View Repository](https://github.com/MohamedAbady01/CNN-based-classifier-to-detect-real-vs-fake-ID-cards)  
 
-👉 [Project Repository](https://github.com/MohamedAbady01/CNN-based-classifier-to-detect-real-vs-fake-ID-cards)  
+---
+
+### 🤖 Mackthon Project – AI Hackathon Solution
+- End-to-end AI solution developed during a **Hackathon (Mackthon)**.  
+- Integrated **machine learning models** with **automation pipelines** to solve real-world problems.  
+- Applied **data preprocessing, model training, and deployment** strategies under time constraints.  
+👉 [View Repository](https://github.com/MohamedAbady01/Mackthon-project)  
+
+---
+
+### 🛂 BLS Visa Automation
+- Automated booking system for **BLS Spain Morocco visa appointments**.  
+- Selenium-based navigation for form filling & appointment booking.  
+- OTP confirmation via **Gmail IMAP integration**.  
+- Tkinter GUI for **MySQL database integration**.  
+👉 [View Repository](https://github.com/MohamedAbady01/PythonTasks/blob/main/bls%20visa%20.ipynb)  
+
+---
+
+## 📊 GitHub Stats
+
+![Abady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbady01&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbady01&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbady01&theme=radical)  
 
 ---
 
