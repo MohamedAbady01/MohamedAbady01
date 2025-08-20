@@ -55,14 +55,29 @@
 
 ---
 
+### ⚡ n8n Automation & AI Workflows
+Projects showcasing automation pipelines, LLM agents, and integrations:
+
+- **AI CRM Email Assistant** – Integrated AI with CRM to craft and send personalized follow-up emails automatically.  
+- **MCB Clients Chatbot** – GPT-3.5 assistant with tool calling for client queries.  
+- **Automated Invoice System** – Trello + Google Sheets + n8n workflow that creates invoices on-demand via chatbot, generates PDFs, and syncs with project data.  
+- **Invoice Classifier** – Auto-classifies invoices (Purchase vs Expense).  
+- **Prompt Chaining** – Multi-step reasoning workflows with LLMs.  
+- **Content Automation** – AI image & post generator that publishes directly to X.  
+- **Amazon Product Extractor** – Structured data scraping using Firecrawl.  
+- **Chatbot with Memory** – Supabase-powered session memory for context retention.  
+- **Email & Event Handler** – Auto-send emails or create events from chat messages.  
+
+
+
+
+---
+
 ## 📊 GitHub Stats
 
 ![Abady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAbady01&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbady01&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbady01&theme=radical)  
-
 ---
 
 ## 🎓 Education
